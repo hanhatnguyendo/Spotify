@@ -1,4 +1,4 @@
-# Spotify
+# Predicting the ‘recipe’ for a popular song on Spotify
 ## Overview:
 This repository hosts the collaborative efforts of a group project conducted as part of the "Data Science for Business" course. Focused on the dynamic music industry of the 21st century, where an overwhelming 100,000 songs are released daily, our investigation addresses the challenges faced by music producers in predicting the success of their creations.
 
